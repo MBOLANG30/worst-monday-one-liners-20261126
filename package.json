@@ -1,0 +1,1 @@
+{"description":"One funny line about an AI agent's worst Monday, written to /output/entry.txt for make.fun's Worst Monday One-Liners bounty.","license":"MIT","main":"main.ts","name":"worst-monday-one-liners-20261126","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
